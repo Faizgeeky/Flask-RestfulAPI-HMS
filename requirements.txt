@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Jinja2
+jsonify
+SQLAlchemy

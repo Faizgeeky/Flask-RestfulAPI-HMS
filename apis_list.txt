@@ -1,0 +1,50 @@
+Patient Management
+
+Patient 
+1. Add Patient   - DONE
+2.  View All Patients  - DONE
+3. Get Patient by id  - DONE
+
+Patient Medical history
+1. Add Patient  medical History  - DONE
+2. view Patient medical history by patient id - DONE
+
+Patient Appointment Records
+1. Add Appointment by Depatment id  - DONE
+2. View Appointment by Patient id   - DONE
+
+
+Doctor Management
+
+Doctor 
+1. Add Doctor  - DONE
+2. Filter Doctor by id - DONE
+
+Availablity Schedule 
+1. Add Availablity using date and time - DONE
+
+List of Patient Assigned 
+1. List of All Patient Assigned - DONE
+2. Filter by date - DONE
+
+Assign 
+1. If Doctor Available assign patient - DONE
+
+
+Depatment Management
+1. Add Depatment - DONE
+2. Filter by id - DONE 
+3. Get all dep list - DONE
+
+Search Functionality:
+1. Search Patient by name , id  - Done
+2. Search Doctor by name , id -- Done
+3. Search Depatment by id - Done
+
+Filter Doctor by 
+1. Availablity - DONE
+2. Specilization - Done
+
+pagination Option
+Optional Enhancements: Implement pagination to limit the number of
+products returned in a single request.  - DONE
